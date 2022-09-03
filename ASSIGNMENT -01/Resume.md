@@ -1,4 +1,3 @@
-## PHOTO
 <img src = "https://github.com/HemaKavuri/DATA-690-FALL-STATISTICAL-ANAYLSIS-VISUALIZATION/blob/main/ASSIGNMENT%20-01/photo.jpeg" height=300/>
 NAME: HEMA CHOWDARY KAVURI
 
