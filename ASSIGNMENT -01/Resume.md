@@ -1,5 +1,5 @@
 ## PHOTO
-![](photo.jpeg)
+![] (photo.jpeg)
 NAME: HEMA CHOWDARY KAVURI
 
 CONTACT INFORMATION: mp61613@umbc.edu
@@ -8,7 +8,7 @@ CONTACT INFORMATION: mp61613@umbc.edu
  Previously worked as an Automation Testing Enginner for 3+ years. Completed undergraduate in Computer Science background. Presently purisng my masters in Data Science Program.
 
 ## EDUCATIONAL BACKGROUND 
-- Completed Undergraduate in Koneru Lakshmaiah Educational Foundation (KLU) in India 
+- Completed Undergraduate in Koneru Lakshmaiah Educational Foundation (KLU) in India.
 
 ## WORK EXPEREINCE 
 - Worked as a Software Engineer at Cyient, worked for 2+ years in Automation Testing Department.
