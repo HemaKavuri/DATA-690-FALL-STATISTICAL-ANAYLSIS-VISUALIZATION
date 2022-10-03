@@ -1,4 +1,4 @@
-                                                        ## Data Analysis with Python
+# Data Analysis with Python
 # Part 1                                                      
 ## What is Data Analysis?
 IT is a process of inspecting, cleansing, transformation and modeling data with the goal of discovering useful information, informing conclusion and supporting decision - making.
@@ -27,7 +27,7 @@ IT is a process of inspecting, cleansing, transformation and modeling data with 
 3. Data Wrangling
 4. Analysis
 5. Action
-# We make use of different Libraries.......
+## We make use of different Libraries.......
  - Pandas
  - matplotlib
  - numpy
