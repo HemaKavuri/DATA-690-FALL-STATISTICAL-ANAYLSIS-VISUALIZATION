@@ -22,11 +22,11 @@ IT is a process of inspecting, cleansing, transformation and modeling data with 
 - when we are dealing with more advanced statistical methods
 - when extreme performance is needed.
 ### Data Analysis Process
-1. Data Extraction 
-2. Data Cleaning
-3. Data Wrangling
-4. Analysis
-5. Action
+-  Data Extraction 
+-  Data Cleaning
+-  Data Wrangling
+-  Analysis
+-  Action
 ### We make use of different Libraries.......
  - Pandas
  - matplotlib
@@ -62,8 +62,6 @@ IT is a process of inspecting, cleansing, transformation and modeling data with 
 ## Part 8
 - This part is just an overview of what all we learnt in this tutorial 
 - It covers topics about if/else/elif statements and about loops
-
-- 
 
 
    
