@@ -39,7 +39,7 @@ Overall Literacy rate for choosen countires for year 2015 is shown above. The gr
 
 ## What Percentage of childern (15-24) age group are involved in child labour?
 
-<img src = "https://github.com/HemaKavuri/DATA-690-FALL-STATISTICAL-ANAYLSIS-VISUALIZATION/blob/main/data690_world_dev/Charts/Literacy_Rate.png" height=400/>
+<img src = "https://github.com/HemaKavuri/DATA-690-FALL-STATISTICAL-ANAYLSIS-VISUALIZATION/blob/main/data690_world_dev/Charts/Child%20Labour.png" height=400/>
 
 
 
