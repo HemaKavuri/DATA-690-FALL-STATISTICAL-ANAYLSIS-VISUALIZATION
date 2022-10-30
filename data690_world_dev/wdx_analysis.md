@@ -8,17 +8,20 @@ In this project we are mainly concentrating on whether child labour rate is disc
 
 ## Data:
    THE WORLD DEVELOPMENT EXPLORER(https://www.worlddev.xyz/)
+
 ## Topics:
    1. Education
    2. Social Development
+
 ## Indicators:
    1. Labour force Participation rate for ages 15-24
    2. Literacy rate( % of people ages 15-24)
    3. Population, ages 15-24, total
+
 ## Time Span: 
    2010-2020
 
-## Does an Educated Society helps in Social Development ?
+## 
 
 
 
