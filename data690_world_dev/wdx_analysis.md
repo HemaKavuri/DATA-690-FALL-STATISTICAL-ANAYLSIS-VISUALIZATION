@@ -35,7 +35,10 @@ In this project we are mainly concentrating on whether child labour rate is disc
 <img src = "https://github.com/HemaKavuri/DATA-690-FALL-STATISTICAL-ANAYLSIS-VISUALIZATION/blob/main/data690_world_dev/Charts/Literacy.png" height=400/>
 
 
-Overall Literacy rate for choosen countires for year 2015 is shown above. The graph says almost all the choosen countries have same literacy rate percentage. It is observed that 20 % of childern under age 15 - 24 are having education. What about remaning 80% are they involved in child labour which need to be answered future.
+Overall Literacy rate for choosen countires for year 2015 is shown above. The graph says almost all the choosen countries have same literacy rate percentage. It is observed that 14 % of childern under age 15 - 24 are having education. What about remaning 86%, are they involved in child labour which need to be answered future. China, Rusian Federation and Argentina are the countires having high Literacy rate amoung remaning chosen countries.
+
+## What Percentage of childern (15-24) age group are involved in child labour?
+
 
 
 
