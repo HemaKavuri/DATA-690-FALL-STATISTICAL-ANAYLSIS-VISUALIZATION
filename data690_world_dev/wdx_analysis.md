@@ -21,7 +21,13 @@ In this project we are mainly concentrating on whether child labour rate is disc
 ## Time Span: 
    2010-2020
 
-## 
+## Counties:
+      I am using G20 Group filter to choose countries. 
+      
+## Which country is having high Literacy Rate ?
+
+
+
 
 
 
