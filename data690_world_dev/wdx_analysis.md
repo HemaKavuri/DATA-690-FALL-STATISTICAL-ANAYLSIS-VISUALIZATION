@@ -26,7 +26,8 @@ In this project we are mainly concentrating on whether child labour rate is disc
       
 ## Which country is having high Literacy Rate ?
 
-< img source="https://github.com/HemaKavuri/DATA-690-FALL-STATISTICAL-ANAYLSIS-VISUALIZATION/blob/main/data690_world_dev/Charts/Literacy%20rate.png">
+<img src = "https://github.com/HemaKavuri/DATA-690-FALL-STATISTICAL-ANAYLSIS-VISUALIZATION/blob/main/ASSIGNMENT%20-01/photo.jpeg" height=300/>
+
 
 
 
