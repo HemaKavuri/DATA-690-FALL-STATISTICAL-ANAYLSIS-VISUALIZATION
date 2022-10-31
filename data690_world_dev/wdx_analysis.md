@@ -48,6 +48,13 @@ Brazil has highest percentage of child labour involvment, next comes china with 
  
  To decide above two indicators relation we need to know the total population of these countires . From which we can say out of x% percentage of population y% of literacy rate is recorded and z% of Child labour is noted. Which leads to solution to the question we raised before.
  
-<img src = "https://github.com/HemaKavuri/DATA-690-FALL-STATISTICAL-ANAYLSIS-VISUALIZATION/blob/main/data690_world_dev/Charts/Child%20Labour.png" height=400/>
+<img src = "https://github.com/HemaKavuri/DATA-690-FALL-STATISTICAL-ANAYLSIS-VISUALIZATION/blob/main/data690_world_dev/Charts/Population.png" height=400/>
+
+This shows China occupies most of the population when comapred to other countries total population and Argentina stood in last place. So China with highest population having highest child labour rate with lowest literacy rate when considering three indicators together.
+
+## What is the Child Labour Rate in Overall Time Span ?
+ 
+ <img src = "" height=400/>
+       
 
 
