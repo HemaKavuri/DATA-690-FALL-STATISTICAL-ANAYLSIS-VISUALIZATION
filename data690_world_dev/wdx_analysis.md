@@ -59,6 +59,13 @@ This shows China occupies most of the population when comapred to other countrie
        
    Above Time series says our previous assumptions are wrong when it comes to Overall Time Span(2010-2020). China's has graduall decrease in child labour rate. But when we observe Argentina's child labour rate it got increased in 2014-2019 and falls in 2020.
    
+   ## Overall Literacy Rate
    
+   <img src="https://github.com/HemaKavuri/DATA-690-FALL-STATISTICAL-ANAYLSIS-VISUALIZATION/blob/main/data690_world_dev/Charts/Literacy%20Rate_Overall.png" height=400/>
+
+Overall Literacy Rate of China has increased over the time . Rusian has constant Literacy rate throught the time span and South Africa's Literacy rate has decrased in 2017 and raised up to 98 Percentage by 2020. SO from both the Time series plots we can say that Educated Socitey Like china helps in social Devlopment like Eradicating Child Labour .
+
+## Scatter Plot Showing Total Population, Literacy Rate, Child Labour rate in one frame
+
 
 
