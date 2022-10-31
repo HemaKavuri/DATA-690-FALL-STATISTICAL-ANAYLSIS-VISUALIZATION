@@ -67,5 +67,8 @@ Overall Literacy Rate of China has increased over the time . Rusian has constant
 
 ## Scatter Plot Showing Total Population, Literacy Rate, Child Labour rate in one frame
 
+ <img src = "https://github.com/HemaKavuri/DATA-690-FALL-STATISTICAL-ANAYLSIS-VISUALIZATION/blob/main/data690_world_dev/Charts/Scatter%20Plot.png" height=400/>
+ 
+ This Scatter Plot shows 
 
 
