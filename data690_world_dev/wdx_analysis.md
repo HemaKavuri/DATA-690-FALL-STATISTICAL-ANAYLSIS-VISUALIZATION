@@ -65,10 +65,10 @@ This shows China occupies most of the population when comapred to other countrie
 
 Overall Literacy Rate of China has increased over the time . Rusian has constant Literacy rate throught the time span and South Africa's Literacy rate has decrased in 2017 and raised up to 98 Percentage by 2020. SO from both the Time series plots we can say that Educated Socitey Like china helps in social Devlopment like Eradicating Child Labour .
 
-## Scatter Plot Showing Total Population, Literacy Rate, Child Labour rate in one frame
+## Scatter Plot Showing Literacy Rate, Child Labour rate in one frame
 
- <img src = "https://github.com/HemaKavuri/DATA-690-FALL-STATISTICAL-ANAYLSIS-VISUALIZATION/blob/main/data690_world_dev/Charts/Scatter%20Plot.png" height=400/>
+ <img src = "https://github.com/HemaKavuri/DATA-690-FALL-STATISTICAL-ANAYLSIS-VISUALIZATION/blob/main/data690_world_dev/Charts/Scatter%20Plot%20(2).png" height=400/>
  
- This Scatter Plot shows 
+ This Scatter Plot shows With an Increase in Literacy rate their is a decrease in Child Labour rate in overall Time Span by china.
 
 
