@@ -42,7 +42,12 @@ Overall Literacy rate for choosen countires for year 2015 is shown above. The gr
 <img src = "https://github.com/HemaKavuri/DATA-690-FALL-STATISTICAL-ANAYLSIS-VISUALIZATION/blob/main/data690_world_dev/Charts/Child%20Labour.png" height=400/>
 
 The above graph says around 60 percentage of children are involved in child labour . Which means 60% of childern age group of 15 - 24 are not having education.
-Brazil has highest percentage of child labour involvment, next comes china with 57 percenatge of child labour overall.          
+Brazil has highest percentage of child labour involvment, next comes china with 57 percenatge of child labour overall. Where as Turkiye and South Africa has less child labour involved. By this can we relate that countires with high perecentage of child labour rate are having less literacy rate?. The Answer can be yes if yu see the future relation between both in overall time span.
 
+## What about Countires Population?
+ 
+ To decide above two indicators relation we need to know the total population of these countires . From which we can say out of x% percentage of population y% of literacy rate is recorded and z% of Child labour is noted. Which leads to solution to the question we raised before.
+ 
+<img src = "https://github.com/HemaKavuri/DATA-690-FALL-STATISTICAL-ANAYLSIS-VISUALIZATION/blob/main/data690_world_dev/Charts/Child%20Labour.png" height=400/>
 
 
