@@ -54,7 +54,11 @@ This shows China occupies most of the population when comapred to other countrie
 
 ## What is the Child Labour Rate in Overall Time Span ?
  
- <img src = "" height=400/>
+ <img src = "https://github.com/HemaKavuri/DATA-690-FALL-STATISTICAL-ANAYLSIS-VISUALIZATION/blob/main/data690_world_dev/Charts/Overall_Time_series.png" height=400/>
        
+       
+   Above Time series says our previous assumptions are wrong when it comes to Overall Time Span(2010-2020). China's has graduall decrease in child labour rate. But when we observe Argentina's child labour rate it got increased in 2014-2019 and falls in 2020.
+   
+   
 
 
