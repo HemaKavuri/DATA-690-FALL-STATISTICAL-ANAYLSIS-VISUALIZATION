@@ -1,0 +1,78 @@
+,Year,Country Code,Country Name,Region,Income Group,Lending Type,SE.ADT.1524.LT.ZS,SL.TLF.ACTI.1524.ZS,SP.POP.1524.TO.UN
+0,2010,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD,99.2986373901,41.09400177,6828321.0
+1,2010,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD,97.5141220093,58.158000946,33736994.0
+2,2010,CHN,China,East Asia & Pacific,Upper middle income,IBRD,99.642288208,57.6800003052,218974009.0
+3,2010,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD,98.4345169067,47.0750007629,19877068.0
+4,2010,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD,99.709602356,41.5410003662,20196327.0
+5,2010,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD,98.2245864868,37.5369987488,
+6,2010,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD,98.6441268921,26.327999115,9791869.0
+7,2011,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD,99.6282424927,40.9889984131,6858723.0
+8,2011,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD,98.4869232178,56.3790016174,33540594.0
+9,2011,CHN,China,East Asia & Pacific,Upper middle income,IBRD,,56.7999992371,215914397.0
+10,2011,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD,98.461769104,46.8909988403,20044489.0
+11,2011,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD,,41.438999176,18999436.0
+12,2011,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD,98.7093505859,38.6590003967,
+13,2011,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD,98.7896575928,25.5890007019,9835899.0
+14,2012,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD,99.375869751,40.533000946,6880259.0
+15,2012,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD,98.6196594238,56.2599983215,33432501.0
+16,2012,CHN,China,East Asia & Pacific,Upper middle income,IBRD,,55.7480010986,211735888.0
+17,2012,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD,98.8754196167,47.2620010376,20177898.0
+18,2012,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD,,39.4039993286,17759876.0
+19,2012,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD,99.0160217285,37.5810012817,
+20,2012,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD,98.8820419312,25.4029998779,9881207.0
+21,2013,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD,99.551322937,40.0820007324,6892160.0
+22,2013,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD,98.7366790771,55.0060005188,33412052.0
+23,2013,CHN,China,East Asia & Pacific,Upper middle income,IBRD,,54.6940002441,206846521.0
+24,2013,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD,98.5644989014,46.4109992981,20271973.0
+25,2013,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD,,39.5519981384,16560947.0
+26,2013,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD,99.227432251,39.0270004272,
+27,2013,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD,,25.7220001221,9925487.0
+28,2014,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD,99.2967071533,38.4309997559,6894149.0
+29,2014,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD,98.8456878662,53.9539985657,33469835.0
+30,2014,CHN,China,East Asia & Pacific,Upper middle income,IBRD,,53.7690010071,201802535.0
+31,2014,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD,99.000038147,45.6300010681,20325060.0
+32,2014,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD,,38.0929985046,15504104.0
+33,2014,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD,99.3584823608,40.9700012207,
+34,2014,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD,98.8822784424,25.170999527,9965374.0
+35,2015,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD,99.5597000122,38.5830001831,6886530.0
+36,2015,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD,98.9637527466,53.9160003662,33595574.0
+37,2015,CHN,China,East Asia & Pacific,Upper middle income,IBRD,,52.891998291,197026759.0
+38,2015,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD,98.9447097778,44.8839988708,20336734.0
+39,2015,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD,,37.3510017395,14661984.0
+40,2015,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD,99.494392395,41.9500007629,
+41,2015,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD,98.9557800293,26.4850006104,9998431.0
+42,2016,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD,99.5027084351,38.7379989624,
+43,2016,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD,99.1109619141,54.1619987488,
+44,2016,CHN,China,East Asia & Pacific,Upper middle income,IBRD,,51.9770011902,
+45,2016,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD,99.1162033081,44.2960014343,
+46,2016,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD,,36.9399986267,
+47,2016,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD,99.6213607788,42.5200004578,
+48,2016,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD,,26.2430000305,
+49,2017,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD,,38.8940010071,
+50,2017,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD,99.1554107666,55.0699996948,
+51,2017,CHN,China,East Asia & Pacific,Upper middle income,IBRD,,51.0069999695,
+52,2017,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD,99.1246871948,43.8510017395,
+53,2017,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD,,35.2550010681,
+54,2017,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD,99.750869751,43.4099998474,
+55,2017,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD,95.3238220215,26.4960002899,
+56,2018,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD,99.5055236816,39.3909988403,
+57,2018,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD,99.2041702271,55.3390007019,
+58,2018,CHN,China,East Asia & Pacific,Upper middle income,IBRD,99.7835998535,50.0620002747,
+59,2018,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD,99.3184509277,43.8269996643,
+60,2018,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD,99.6984481812,34.0629997253,
+61,2018,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD,,44.0149993896,
+62,2018,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD,,25.2539997101,
+63,2019,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD,,39.0709991455,
+64,2019,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD,,55.9840011597,
+65,2019,CHN,China,East Asia & Pacific,Upper middle income,IBRD,,49.2480010986,
+66,2019,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD,,44.8950004578,
+67,2019,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD,,33.0719985962,
+68,2019,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD,99.9071502686,44.4869995117,
+69,2019,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD,98.4095306396,25.5209999084,
+70,2020,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD,,33.0209999084,
+71,2020,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD,,50.0579986572,
+72,2020,CHN,China,East Asia & Pacific,Upper middle income,IBRD,,47.2220001221,
+73,2020,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD,99.0824127197,40.1689987183,
+74,2020,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD,,32.0670013428,
+75,2020,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD,,39.2220001221,
+76,2020,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD,,20.7670001984,
